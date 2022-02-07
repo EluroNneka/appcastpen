@@ -3,10 +3,10 @@
     <channel>
         <title>Pennee App - Appcast</title>
         <item>
-            <title>Version 8.2.0</title>
+            <title>Version 8.2.1</title>
             <description> More Bug Fixes and Refined Internal Workings and General Improvement </description>
-            <pubDate>Fri, 28 Jan 2022 7:53:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.pennee.tech" sparkle:version="8.2.0" sparkle:os="android" />
+            <pubDate>Sun, 06 Feb 2022 21:53:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.pennee.tech" sparkle:version="8.2.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
